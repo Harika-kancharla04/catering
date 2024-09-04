@@ -1,0 +1,60 @@
+.table1{
+    padding: 20px 15px 0px;
+}
+.div1{
+    background-image: url(https://www.w3schools.com/w3images/hamburger.jpg);
+    background-repeat: no-repeat;
+}
+.p1{
+    max-width: 100%;
+
+    
+    font-size: 3em;
+    padding-top: 700px;
+    padding-left: 30px;
+    padding-bottom: 30px;
+    color: gray;
+    
+}
+h1{
+    padding-top: 20px;
+}
+.p2{
+    
+    color: #757575;
+    padding-top: 30px;
+    justify-content: left;
+}
+.div2{
+    margin-left: 100px;
+    margin-bottom: 20px;
+    
+}
+.div2 img{
+    margin-right: 40px;
+    height: auto;
+    margin-left: 70px;
+}
+.div3{
+    clear:both;
+    margin-left: 170px;
+    
+}
+.div3 img{
+    float:right;
+    margin-right: 200px;
+    margin-bottom: 50px;
+}
+.div4{
+    clear: both;
+    margin-left:calc(100% - 80%);
+    margin-right:calc(100% - 80%);
+
+
+}
+
+footer{
+    clear: both;
+    text-align: center;
+    background-color: #f1f1f1;
+}
